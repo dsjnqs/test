@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 RSS_URL = "http://feeds.bbci.co.uk/news/world/rss.xml"
-OUTPUT_FILE = "NEWS.md"
+OUTPUT_FILE = "README.md"
 TOP_N = 5
 
 
