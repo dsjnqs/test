@@ -20,4 +20,4 @@
    - The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.
    - Published: Mon, 10 Aug 2026 14:43:08 GMT
 
-_Last updated: 2026-08-11T06:28:33.015928+00:00 UTC_
+_Last updated: 2026-08-11T07:16:37.566361+00:00 UTC_
