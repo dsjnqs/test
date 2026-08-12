@@ -1,5 +1,5 @@
 """
-Fetch the top 5 global news headlines and write them to NEWS.md.
+Fetch the top 5 global news headlines and write them to README.md.
 
 Source: BBC News - World RSS feed (no API key required).
 Designed to be run daily by a GitHub Actions workflow.
