@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-14
+# Top 5 Global News — 2026-08-15
 
-1. ['Unprecedented' rains in Japan kill six people](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss)
-   - The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
-   - Published: Fri, 14 Aug 2026 07:00:56 GMT
+1. [Mangione admits killing healthcare CEO and pleads guilty to federal charges](https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss)
+   - "I shot Mr Thompson in Manhattan and he died," the 28-year-old said after pleading guilty to charges of stalking resulting in death.
+   - Published: Fri, 14 Aug 2026 19:20:43 GMT
 
-2. [Palestinians told to leave homes in village where Israeli settlers besieged houses](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss)
-   - The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.
-   - Published: Thu, 13 Aug 2026 20:12:17 GMT
+2. [BBC seeks to subpoena Trump's family members in Panorama lawsuit](https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss)
+   - The BBC's lawyers argue Trump's family members "have personal knowledge" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.
+   - Published: Sat, 15 Aug 2026 00:01:53 GMT
 
-3. [US says dozens of countries helped China dodge Trump's tariffs](https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss)
-   - A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.
-   - Published: Fri, 14 Aug 2026 03:09:48 GMT
+3. [At least 14 dead after 7.7-magnitude earthquake strikes Indonesia](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
+   - The earthquake struck off Flores island in the country's east early on Saturday morning.
+   - Published: Sat, 15 Aug 2026 06:21:31 GMT
 
-4. [Romania shuts only nuclear plant as heat causes huge drop in Danube River level](https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss)
-   - The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.
-   - Published: Thu, 13 Aug 2026 19:46:27 GMT
+4. [Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule](https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss)
+   - Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
+   - Published: Fri, 14 Aug 2026 18:25:38 GMT
 
-5. [Engine parts smashed Ryanair window that man's head was sucked out of, report says](https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss)
-   - A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.
-   - Published: Thu, 13 Aug 2026 21:43:47 GMT
+5. [US aircraft carrier on way to relieve USS Lincoln after issues reported aboard](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss)
+   - Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.
+   - Published: Fri, 14 Aug 2026 17:36:27 GMT
 
-_Last updated: 2026-08-14T07:39:40.651676+00:00 UTC_
+_Last updated: 2026-08-15T06:47:17.809415+00:00 UTC_
