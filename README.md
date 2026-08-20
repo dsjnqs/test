@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-19
+# Top 5 Global News — 2026-08-20
 
-1. [Sacked Ukrainian defence minister calls for presidential election](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
-   - Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
-   - Published: Wed, 19 Aug 2026 04:44:41 GMT
+1. [Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss)
+   - Australia's foreign minister summoned the Israeli ambassador over "insulting" Zomi Frankcom decision.
+   - Published: Thu, 20 Aug 2026 06:39:14 GMT
 
-2. [Trump pauses new tariffs on Canada and says countries close to a deal](https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss)
-   - US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
-   - Published: Wed, 19 Aug 2026 03:56:35 GMT
+2. [Founder of collapsed Chinese property giant Evergrande sentenced to life in prison](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss)
+   - Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.
+   - Published: Thu, 20 Aug 2026 06:08:02 GMT
 
-3. [Meta hooked children on Facebook and Instagram, US court hears](https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss)
-   - Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.
-   - Published: Tue, 18 Aug 2026 22:11:07 GMT
+3. [At least 12 killed in Kyiv as Ukraine grapples with air defence shortages](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
+   - Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, officials say.
+   - Published: Thu, 20 Aug 2026 06:44:20 GMT
 
-4. [South Korea shortens war games with US, citing Washington request](https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss)
-   - It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
-   - Published: Wed, 19 Aug 2026 05:53:53 GMT
+4. [Trump vows tougher economic measures on Iran and supporting countries](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss)
+   - It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+   - Published: Thu, 20 Aug 2026 03:22:57 GMT
 
-5. [Husband and mother-in-law charged over Indian bride's death](https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss)
-   - Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.
-   - Published: Wed, 19 Aug 2026 03:04:07 GMT
+5. [Giant whales move into Greenland waters as ice disappears](https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss)
+   - Melting sea ice from climate change has opened up the region for giant whales to undertake "feeding frenzies".
+   - Published: Thu, 20 Aug 2026 02:05:20 GMT
 
-_Last updated: 2026-08-19T06:53:11.478367+00:00 UTC_
+_Last updated: 2026-08-20T06:54:43.915204+00:00 UTC_
