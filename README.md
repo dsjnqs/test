@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-20
+# Top 5 Global News — 2026-08-21
 
-1. [Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss)
-   - Australia's foreign minister summoned the Israeli ambassador over "insulting" Zomi Frankcom decision.
-   - Published: Thu, 20 Aug 2026 06:39:14 GMT
+1. [UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project](https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss)
+   - European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.
+   - Published: Thu, 20 Aug 2026 18:55:14 GMT
 
-2. [Founder of collapsed Chinese property giant Evergrande sentenced to life in prison](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss)
-   - Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.
-   - Published: Thu, 20 Aug 2026 06:08:02 GMT
+2. [How much could Trump's 'economic D-Day' hurt Iran?](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss)
+   - Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.
+   - Published: Thu, 20 Aug 2026 23:16:45 GMT
 
-3. [At least 12 killed in Kyiv as Ukraine grapples with air defence shortages](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
-   - Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, officials say.
-   - Published: Thu, 20 Aug 2026 06:44:20 GMT
+3. [El Niño set to be 'strongest in living memory', says Met Office](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
+   - Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
+   - Published: Fri, 21 Aug 2026 00:33:21 GMT
 
-4. [Trump vows tougher economic measures on Iran and supporting countries](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss)
-   - It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
-   - Published: Thu, 20 Aug 2026 03:22:57 GMT
+4. [British rapper Yung Filly to face retrial on rape charges in Australia](https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss)
+   - A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,
+   - Published: Fri, 21 Aug 2026 05:30:18 GMT
 
-5. [Giant whales move into Greenland waters as ice disappears](https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss)
-   - Melting sea ice from climate change has opened up the region for giant whales to undertake "feeding frenzies".
-   - Published: Thu, 20 Aug 2026 02:05:20 GMT
+5. [Why the US economy is ringing alarm bells](https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss)
+   - The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?
+   - Published: Thu, 20 Aug 2026 23:15:15 GMT
 
-_Last updated: 2026-08-20T06:54:43.915204+00:00 UTC_
+_Last updated: 2026-08-21T06:55:45.324148+00:00 UTC_
