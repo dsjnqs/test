@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-23
+# Top 5 Global News — 2026-08-24
 
-1. [Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
-   - Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
-   - Published: Sun, 23 Aug 2026 05:46:43 GMT
+1. [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
+   - Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
+   - Published: Mon, 24 Aug 2026 05:00:22 GMT
 
-2. [Carney faces crucial test after walking away from Trump's deal](https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss)
-   - The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.
-   - Published: Sat, 22 Aug 2026 20:02:46 GMT
+2. [Trump says Canada wants 'benefits' of being US state after trade talks collapse](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+   - Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+   - Published: Sun, 23 Aug 2026 19:11:30 GMT
 
-3. [Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
-   - Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
-   - Published: Sat, 22 Aug 2026 13:13:16 GMT
+3. [Shein aims for almost $27bn valuation in stock market debut](https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss)
+   - The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.
+   - Published: Mon, 24 Aug 2026 07:00:53 GMT
 
-4. [Father leaves 7-year-old son alone on Mount Fuji to continue hike](https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss)
-   - The man had taken his two boys on the trip but is said to have left one behind when he got tired.
-   - Published: Sat, 22 Aug 2026 14:35:11 GMT
+4. [China probes use of formaldehyde to keep cabbages fresh](https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss)
+   - Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.
+   - Published: Mon, 24 Aug 2026 05:40:48 GMT
 
-5. [Syria says Israeli strike near Damascus violation of international law](https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss)
-   - The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.
-   - Published: Sat, 22 Aug 2026 21:42:42 GMT
+5. [Ex-cricket captains urge 'proper medical care' for Imran Khan](https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss)
+   - The former skippers say it is "basic decency" for Pakistan to comply with a court-ordered medical assessment.
+   - Published: Mon, 24 Aug 2026 03:55:35 GMT
 
-_Last updated: 2026-08-23T06:50:02.705245+00:00 UTC_
+_Last updated: 2026-08-24T07:08:23.177872+00:00 UTC_
