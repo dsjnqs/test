@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-24
+# Top 5 Global News — 2026-08-25
 
-1. [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
-   - Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
-   - Published: Mon, 24 Aug 2026 05:00:22 GMT
+1. [Iran says it is 'fully prepared' to counter widened US economic sanctions](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
+   - The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to address them.
+   - Published: Tue, 25 Aug 2026 06:54:46 GMT
 
-2. [Trump says Canada wants 'benefits' of being US state after trade talks collapse](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
-   - Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
-   - Published: Sun, 23 Aug 2026 19:11:30 GMT
+2. [Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
+   - The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.
+   - Published: Mon, 24 Aug 2026 22:13:36 GMT
 
-3. [Shein aims for almost $27bn valuation in stock market debut](https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss)
-   - The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.
-   - Published: Mon, 24 Aug 2026 07:00:53 GMT
+3. [UK drone factories may face attacks from 'unknown sources', says Kremlin adviser](https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss)
+   - The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.
+   - Published: Tue, 25 Aug 2026 04:06:34 GMT
 
-4. [China probes use of formaldehyde to keep cabbages fresh](https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss)
-   - Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.
-   - Published: Mon, 24 Aug 2026 05:40:48 GMT
+4. [US removes Syria from list of state sponsors of terrorism](https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss)
+   - The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.
+   - Published: Tue, 25 Aug 2026 00:17:25 GMT
 
-5. [Ex-cricket captains urge 'proper medical care' for Imran Khan](https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss)
-   - The former skippers say it is "basic decency" for Pakistan to comply with a court-ordered medical assessment.
-   - Published: Mon, 24 Aug 2026 03:55:35 GMT
+5. [French tourist dies in Death Valley after car gets stuck in mud](https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss)
+   - The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.
+   - Published: Tue, 25 Aug 2026 02:08:57 GMT
 
-_Last updated: 2026-08-24T07:08:23.177872+00:00 UTC_
+_Last updated: 2026-08-25T06:56:35.213514+00:00 UTC_
