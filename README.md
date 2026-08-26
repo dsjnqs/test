@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-25
+# Top 5 Global News — 2026-08-26
 
-1. [Iran says it is 'fully prepared' to counter widened US economic sanctions](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
-   - The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to address them.
-   - Published: Tue, 25 Aug 2026 06:54:46 GMT
+1. [Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss)
+   - The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
+   - Published: Tue, 25 Aug 2026 19:50:57 GMT
 
-2. [Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
-   - The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.
-   - Published: Mon, 24 Aug 2026 22:13:36 GMT
+2. [China hits out at 'illegal' new US sanctions on Iran and trading partners](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
+   - The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
+   - Published: Tue, 25 Aug 2026 11:53:36 GMT
 
-3. [UK drone factories may face attacks from 'unknown sources', says Kremlin adviser](https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss)
-   - The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.
-   - Published: Tue, 25 Aug 2026 04:06:34 GMT
+3. [CIA chief travels to Moscow for unannounced talks, US media reports](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
+   - Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
+   - Published: Tue, 25 Aug 2026 19:48:14 GMT
 
-4. [US removes Syria from list of state sponsors of terrorism](https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss)
-   - The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.
-   - Published: Tue, 25 Aug 2026 00:17:25 GMT
+4. [Mass arrests in global crackdown on West African cyber-crime networks](https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss)
+   - The operation included the arrest of 39 people in South Africa for romance and investment scams.
+   - Published: Tue, 25 Aug 2026 19:30:37 GMT
 
-5. [French tourist dies in Death Valley after car gets stuck in mud](https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss)
-   - The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.
-   - Published: Tue, 25 Aug 2026 02:08:57 GMT
+5. [Brain disease in dead NFL players 'higher than previously shown'](https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss)
+   - A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.
+   - Published: Tue, 25 Aug 2026 11:54:40 GMT
 
-_Last updated: 2026-08-25T06:56:35.213514+00:00 UTC_
+_Last updated: 2026-08-26T06:57:44.306460+00:00 UTC_
