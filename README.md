@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-08-26
+# Top 5 Global News — 2026-08-27
 
-1. [Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss)
-   - The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
-   - Published: Tue, 25 Aug 2026 19:50:57 GMT
+1. [Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say](https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss)
+   - Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.
+   - Published: Thu, 27 Aug 2026 09:50:10 GMT
 
-2. [China hits out at 'illegal' new US sanctions on Iran and trading partners](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
-   - The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
-   - Published: Tue, 25 Aug 2026 11:53:36 GMT
+2. [What we know about deadly Nepal-Tibet floods](https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss)
+   - Hundreds have died in flooding and landslides on the border of Nepal and Tibet.
+   - Published: Thu, 27 Aug 2026 09:55:02 GMT
 
-3. [CIA chief travels to Moscow for unannounced talks, US media reports](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
-   - Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
-   - Published: Tue, 25 Aug 2026 19:48:14 GMT
+3. [Convicted Bosnian Serb war criminal Mladić dies aged 84](https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss)
+   - He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.
+   - Published: Thu, 27 Aug 2026 17:05:22 GMT
 
-4. [Mass arrests in global crackdown on West African cyber-crime networks](https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss)
-   - The operation included the arrest of 39 people in South Africa for romance and investment scams.
-   - Published: Tue, 25 Aug 2026 19:30:37 GMT
+4. [Norwegians lay flowers at palace as King Harald's condition worsens](https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss)
+   - The 89-year-old's condition is described as "extremely serious" and members of his family have visited him in hospital.
+   - Published: Thu, 27 Aug 2026 16:09:07 GMT
 
-5. [Brain disease in dead NFL players 'higher than previously shown'](https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss)
-   - A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.
-   - Published: Tue, 25 Aug 2026 11:54:40 GMT
+5. [Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions](https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss)
+   - Nickolay Mladenov warns that a collapse of last October's ceasefire would be "a point of no return" for the region.
+   - Published: Thu, 27 Aug 2026 14:17:24 GMT
 
-_Last updated: 2026-08-26T06:57:44.306460+00:00 UTC_
+_Last updated: 2026-08-27T17:30:53.384410+00:00 UTC_
