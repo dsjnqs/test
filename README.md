@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-03
+# Top 5 Global News — 2026-09-04
 
-1. [UN warns of 'supersized' El Niño as countries prepare for impact](https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss)
-   - The WMO has warned that the natural weather phenomenon could bring disruption to global economies.
-   - Published: Thu, 03 Sep 2026 06:01:54 GMT
+1. ['Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel](https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss)
+   - From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.
+   - Published: Fri, 04 Sep 2026 08:23:05 GMT
 
-2. [Feminist activist and journalist Gloria Steinem dies at 92](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss)
-   - Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
-   - Published: Thu, 03 Sep 2026 10:24:26 GMT
+2. [Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss)
+   - Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.
+   - Published: Fri, 04 Sep 2026 10:00:18 GMT
 
-3. [Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
-   - Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.
-   - Published: Thu, 03 Sep 2026 05:00:04 GMT
+3. [Tensions flare as judge declines to remove juror in Lindsay Clancy trial](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
+   - The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
+   - Published: Fri, 04 Sep 2026 00:54:46 GMT
 
-4. [More than 80 migrants feared dead after boat rescued off Canary Islands](https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss)
-   - Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.
-   - Published: Thu, 03 Sep 2026 10:37:06 GMT
+4. [Argentine leader threatens to sanction oil firms and reiterates Falklands claim](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
+   - Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
+   - Published: Fri, 04 Sep 2026 06:52:29 GMT
 
-5. [Trump $1 coin makes him first living president on US currency in a century](https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss)
-   - The US Mint special edition is stamped with a portrait of Trump alongside the words "LIBERTY" and "IN GOD WE TRUST"
-   - Published: Thu, 03 Sep 2026 10:25:43 GMT
+5. [US diesel prices hit an all-time-high](https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss)
+   - Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.
+   - Published: Fri, 04 Sep 2026 10:52:56 GMT
 
-_Last updated: 2026-09-03T10:58:36.048125+00:00 UTC_
+_Last updated: 2026-09-04T10:58:45.275129+00:00 UTC_
