@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-05
+# Top 5 Global News — 2026-09-06
 
-1. [Mistrial declared in Lindsay Clancy murder case, after jury deadlocks](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
-   - The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
-   - Published: Fri, 04 Sep 2026 22:48:38 GMT
+1. [US envoys set for Ukraine talks after meeting Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+   - It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+   - Published: Sun, 06 Sep 2026 02:24:16 GMT
 
-2. [Trump's peace envoys to visit Moscow and Kyiv over weekend](https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss)
-   - Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.
-   - Published: Sat, 05 Sep 2026 04:28:21 GMT
+2. [US and Iran trade retaliatory attacks on ships as conflict flares](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss)
+   - The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
+   - Published: Sat, 05 Sep 2026 22:44:07 GMT
 
-3. [Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss)
-   - Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.
-   - Published: Fri, 04 Sep 2026 16:49:15 GMT
+3. [TV presenter among 12 sentenced to death in Egypt drugs case](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss)
+   - Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
+   - Published: Sun, 06 Sep 2026 08:05:22 GMT
 
-4. [Nepal rescuers try to reach dozens trapped in tunnel after two found alive](https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss)
-   - More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.
-   - Published: Fri, 04 Sep 2026 12:30:56 GMT
+4. [Volcano eruption leaves 150,000 passengers stranded in Indonesia](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss)
+   - More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.
+   - Published: Sun, 06 Sep 2026 09:56:39 GMT
 
-5. [Trump signs order to remove endangered species protection for grey wolves](https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss)
-   - The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.
-   - Published: Sat, 05 Sep 2026 09:12:48 GMT
+5. [Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home](https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss)
+   - Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.
+   - Published: Sun, 06 Sep 2026 01:54:29 GMT
 
-_Last updated: 2026-09-05T10:20:32.200040+00:00 UTC_
+_Last updated: 2026-09-06T10:40:09.272220+00:00 UTC_
