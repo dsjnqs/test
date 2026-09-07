@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-06
+# Top 5 Global News — 2026-09-07
 
-1. [US envoys set for Ukraine talks after meeting Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
-   - It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
-   - Published: Sun, 06 Sep 2026 02:24:16 GMT
+1. [Germany's far-right AfD says 'democracy demands' parties work with them after state election win](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss)
+   - The far-right party is trying to form a government in the state after falling three seats short of a majority.
+   - Published: Mon, 07 Sep 2026 11:54:22 GMT
 
-2. [US and Iran trade retaliatory attacks on ships as conflict flares](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss)
-   - The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.
-   - Published: Sat, 05 Sep 2026 22:44:07 GMT
+2. [Israeli strikes in southern Lebanese village kill nine](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss)
+   - Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.
+   - Published: Mon, 07 Sep 2026 10:16:56 GMT
 
-3. [TV presenter among 12 sentenced to death in Egypt drugs case](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss)
-   - Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
-   - Published: Sun, 06 Sep 2026 08:05:22 GMT
+3. [New videos of man in 9/11 lawsuit reveal extremist links](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
+   - The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
+   - Published: Mon, 07 Sep 2026 05:31:06 GMT
 
-4. [Volcano eruption leaves 150,000 passengers stranded in Indonesia](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss)
-   - More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.
-   - Published: Sun, 06 Sep 2026 09:56:39 GMT
+4. [Probe begins into why cargo plane overran Miami runway](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss)
+   - Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.
+   - Published: Mon, 07 Sep 2026 09:54:40 GMT
 
-5. [Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home](https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss)
-   - Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.
-   - Published: Sun, 06 Sep 2026 01:54:29 GMT
+5. [Zelensky says he expects war to continue into winter after talks with US envoys](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+   - There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+   - Published: Sun, 06 Sep 2026 20:41:58 GMT
 
-_Last updated: 2026-09-06T10:40:09.272220+00:00 UTC_
+_Last updated: 2026-09-07T12:06:48.935396+00:00 UTC_
