@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-07
+# Top 5 Global News — 2026-09-08
 
-1. [Germany's far-right AfD says 'democracy demands' parties work with them after state election win](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss)
-   - The far-right party is trying to form a government in the state after falling three seats short of a majority.
-   - Published: Mon, 07 Sep 2026 11:54:22 GMT
+1. [Canada braces for prolonged trade war as counter-tariffs on US take effect](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss)
+   - The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
+   - Published: Tue, 08 Sep 2026 04:39:14 GMT
 
-2. [Israeli strikes in southern Lebanese village kill nine](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss)
-   - Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.
-   - Published: Mon, 07 Sep 2026 10:16:56 GMT
+2. [At least two people dead after Russian strikes on Kyiv](https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss)
+   - Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.
+   - Published: Tue, 08 Sep 2026 10:23:01 GMT
 
-3. [New videos of man in 9/11 lawsuit reveal extremist links](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
-   - The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
-   - Published: Mon, 07 Sep 2026 05:31:06 GMT
+3. [Eiffel Tower shut by staff protest after female workers moved for religious visit](https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss)
+   - An investigation will be launched into the incident, which left female employees "humiliated", a union representative says.
+   - Published: Mon, 07 Sep 2026 23:46:44 GMT
 
-4. [Probe begins into why cargo plane overran Miami runway](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss)
-   - Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.
-   - Published: Mon, 07 Sep 2026 09:54:40 GMT
+4. [Highest paid world leader to get salary increase of $1 million](https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss)
+   - Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).
+   - Published: Tue, 08 Sep 2026 09:20:05 GMT
 
-5. [Zelensky says he expects war to continue into winter after talks with US envoys](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
-   - There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
-   - Published: Sun, 06 Sep 2026 20:41:58 GMT
+5. [Trial over alleged murders of Australian surfer brothers starts in Mexico](https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss)
+   - The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.
+   - Published: Tue, 08 Sep 2026 01:32:56 GMT
 
-_Last updated: 2026-09-07T12:06:48.935396+00:00 UTC_
+_Last updated: 2026-09-08T10:59:05.635487+00:00 UTC_
