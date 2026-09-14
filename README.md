@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-13
+# Top 5 Global News — 2026-09-14
 
-1. [AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
-   - It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.
-   - Published: Sun, 13 Sep 2026 11:13:07 GMT
+1. [China criticises idea it is in 'malicious competition' over AI](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss)
+   - It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.
+   - Published: Mon, 14 Sep 2026 11:31:39 GMT
 
-2. [Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss)
-   - Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.
-   - Published: Sun, 13 Sep 2026 09:42:08 GMT
+2. [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+   - The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+   - Published: Mon, 14 Sep 2026 12:18:13 GMT
 
-3. [Trump's comments on a united Ireland may have targeted audience across the Atlantic](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
-   - Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
-   - Published: Sat, 12 Sep 2026 21:25:28 GMT
+3. [Thousands demand end to violence in Mexican cartel hotspot](https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss)
+   - The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.
+   - Published: Mon, 14 Sep 2026 11:28:36 GMT
 
-4. [They lost their jobs after posting about Charlie Kirk, but some have no regrets](https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss)
-   - Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.
-   - Published: Sun, 13 Sep 2026 00:49:08 GMT
+4. [Swedish left-wing bloc narrowly ahead with election too close to call](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss)
+   - A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.
+   - Published: Mon, 14 Sep 2026 08:36:09 GMT
 
-5. [Russians seek answers over hundreds missing after Ukraine's 2024 incursion](https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss)
-   - Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.
-   - Published: Sat, 12 Sep 2026 23:51:05 GMT
+5. [Six dead, 130 missing after Indonesian ferry capsizes in Java Sea](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss)
+   - Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.
+   - Published: Sun, 13 Sep 2026 13:30:38 GMT
 
-_Last updated: 2026-09-13T11:29:15.210778+00:00 UTC_
+_Last updated: 2026-09-14T12:22:30.136664+00:00 UTC_
