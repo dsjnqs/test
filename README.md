@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-14
+# Top 5 Global News — 2026-09-15
 
-1. [China criticises idea it is in 'malicious competition' over AI](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss)
-   - It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.
-   - Published: Mon, 14 Sep 2026 11:31:39 GMT
+1. [Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
+   - The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
+   - Published: Tue, 15 Sep 2026 08:49:31 GMT
 
-2. [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
-   - The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
-   - Published: Mon, 14 Sep 2026 12:18:13 GMT
+2. [AI regulation faces political deadlock as calls grow for Congress to act](https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss)
+   - With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.
+   - Published: Tue, 15 Sep 2026 02:50:36 GMT
 
-3. [Thousands demand end to violence in Mexican cartel hotspot](https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss)
-   - The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.
-   - Published: Mon, 14 Sep 2026 11:28:36 GMT
+3. [Denmark says Russian warship fired flares at military helicopter](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)
+   - The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
+   - Published: Tue, 15 Sep 2026 10:12:49 GMT
 
-4. [Swedish left-wing bloc narrowly ahead with election too close to call](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss)
-   - A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.
-   - Published: Mon, 14 Sep 2026 08:36:09 GMT
+4. [Welsh actor Matthew Rhys makes Emmy Awards history with double win](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss)
+   - He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.
+   - Published: Tue, 15 Sep 2026 03:50:06 GMT
 
-5. [Six dead, 130 missing after Indonesian ferry capsizes in Java Sea](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss)
-   - Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.
-   - Published: Sun, 13 Sep 2026 13:30:38 GMT
+5. [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss)
+   - Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.
+   - Published: Tue, 15 Sep 2026 09:59:14 GMT
 
-_Last updated: 2026-09-14T12:22:30.136664+00:00 UTC_
+_Last updated: 2026-09-15T11:28:16.188824+00:00 UTC_
