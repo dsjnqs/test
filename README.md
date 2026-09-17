@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-16
+# Top 5 Global News — 2026-09-17
 
-1. [EU chief backs plan for Canada to become 'associate member'](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-   - Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
-   - Published: Wed, 16 Sep 2026 10:59:53 GMT
+1. [Assad regime planned US journalist's kidnap for weeks, BBC finds](https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss)
+   - Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.
+   - Published: Thu, 17 Sep 2026 05:00:18 GMT
 
-2. [OpenAI boss says world 'right to be afraid' but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
-   - Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
-   - Published: Wed, 16 Sep 2026 10:02:05 GMT
+2. [Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
+   - Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".
+   - Published: Thu, 17 Sep 2026 08:22:12 GMT
 
-3. [All support acts on Ed Sheeran's US tour quit after Macklemore dropped](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-   - The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
-   - Published: Wed, 16 Sep 2026 09:36:54 GMT
+3. [Ninth woman's body found as South African police investigate string of deaths](https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss)
+   - South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.
+   - Published: Thu, 17 Sep 2026 10:40:31 GMT
 
-4. [At least 20 killed after war-damaged Gaza building collapses](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss)
-   - Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.
-   - Published: Wed, 16 Sep 2026 10:40:36 GMT
+4. [EU announces plan to restrict social media access for under-15s](https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss)
+   - Under the plans, only children over 15 would be able to set up their own social media accounts.
+   - Published: Thu, 17 Sep 2026 10:00:14 GMT
 
-5. [Iran war has led to US munitions shortfalls, Pentagon inspector confirms](https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss)
-   - The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are "virtually limitless".
-   - Published: Tue, 15 Sep 2026 20:34:12 GMT
+5. [Aztec document goes on display in Mexico after 186 years abroad](https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss)
+   - France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.
+   - Published: Thu, 17 Sep 2026 11:00:41 GMT
 
-_Last updated: 2026-09-16T11:14:28.072929+00:00 UTC_
+_Last updated: 2026-09-17T11:22:46.156459+00:00 UTC_
