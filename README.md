@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-21
+# Top 5 Global News — 2026-09-22
 
-1. [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
-   - Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
-   - Published: Mon, 21 Sep 2026 08:56:27 GMT
+1. [Major US outlets boycott shared Trump coverage in protest at media ban](https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss)
+   - Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.
+   - Published: Tue, 22 Sep 2026 08:17:15 GMT
 
-2. [Russia's elections had few surprises - but how the Kremlin uses the results will be crucial](https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss)
-   - Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.
-   - Published: Mon, 21 Sep 2026 00:05:11 GMT
+2. [Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC](https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss)
+   - Sinkevičius told BBC Newsnight Lithuanians feel "constantly threatened" by Moscow, but the nation was prepared to "fight back" if attacked.
+   - Published: Tue, 22 Sep 2026 10:45:47 GMT
 
-3. [CNN, MS NOW and Politico to file lawsuit against Trump's White House ban](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)
-   - The US media outlets say they are defending "the principle that the government does not decide what the press reports or publishes".
-   - Published: Mon, 21 Sep 2026 12:21:02 GMT
+3. [Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly](https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss)
+   - The G7 also condemns "in the strongest terms" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.
+   - Published: Tue, 22 Sep 2026 07:14:12 GMT
 
-4. [Seven Ethiopian rebel groups form new alliance](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss)
-   - The groups have been active in Ethiopia's most populous regions for years and now say they will work together.
-   - Published: Mon, 21 Sep 2026 11:46:39 GMT
+4. [Eleven injured in shooting outside Turkish school](https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss)
+   - Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.
+   - Published: Tue, 22 Sep 2026 10:42:47 GMT
 
-5. [Three arrested in South Africa over one of nine women's body finds](https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss)
-   - The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.
-   - Published: Mon, 21 Sep 2026 12:22:00 GMT
+5. [Sri Lankan court to deliver verdict on deadly Easter bombings](https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss)
+   - Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.
+   - Published: Tue, 22 Sep 2026 10:01:29 GMT
 
-_Last updated: 2026-09-21T12:29:42.566146+00:00 UTC_
+_Last updated: 2026-09-22T11:18:35.669121+00:00 UTC_
