@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-23
+# Top 5 Global News — 2026-09-24
 
-1. [US and Iran hold first talks since June after Trump's 'annihilation' threat](https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss)
-   - The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.
-   - Published: Wed, 23 Sep 2026 06:12:56 GMT
+1. [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+   - Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.
+   - Published: Thu, 24 Sep 2026 07:10:58 GMT
 
-2. [Reports of violence against women in Gaza surge, UN agency finds](https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss)
-   - The UN Population Fund also says there has been a "severe escalation" in the number of early and forced marriages.
-   - Published: Wed, 23 Sep 2026 05:02:26 GMT
+2. [Trump offers warm welcome as China's Xi arrives for US visit](https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss)
+   - The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.
+   - Published: Thu, 24 Sep 2026 03:52:21 GMT
 
-3. [Eleven killed in mass shooting at house in South Africa](https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss)
-   - One of those killed is believed to be a pregnant woman, police said.
-   - Published: Wed, 23 Sep 2026 07:02:52 GMT
+3. [Trump and Xi come face-to-face as US and China battle to win the AI race](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)
+   - The US and China are vying for AI supremacy while seeking to keep it under human control.
+   - Published: Wed, 23 Sep 2026 22:01:17 GMT
 
-4. [Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing](https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss)
-   - The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.
-   - Published: Wed, 23 Sep 2026 06:47:49 GMT
+4. [Iran's president tells Trump it will never 'bend the knee'](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
+   - Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to "annihilate" Iran if a peace deal is not agreed soon.
+   - Published: Wed, 23 Sep 2026 18:15:31 GMT
 
-5. [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)
-   - The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.
-   - Published: Tue, 22 Sep 2026 21:36:55 GMT
+5. [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
+   - The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.
+   - Published: Thu, 24 Sep 2026 09:28:33 GMT
 
-_Last updated: 2026-09-23T11:12:36.221655+00:00 UTC_
+_Last updated: 2026-09-24T11:28:08.983456+00:00 UTC_
