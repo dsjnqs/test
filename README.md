@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-25
+# Top 5 Global News — 2026-09-26
 
-1. [Trump and Xi exchange warm words at state dinner but little progress on key issues](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss)
-   - Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.
-   - Published: Fri, 25 Sep 2026 10:36:55 GMT
+1. [Iran offers US deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+   - Asked about the Iranian proposal, a US official told the BBC "constructive discussions" were taking place through mediators.
+   - Published: Sat, 26 Sep 2026 05:03:09 GMT
 
-2. [Xi got Trump's red carpet welcome - but not everything he wanted](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
-   - China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
-   - Published: Fri, 25 Sep 2026 03:57:09 GMT
+2. [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+   - OpenAI said its bots accessed public data from a range of institutions during test exercises.
+   - Published: Sat, 26 Sep 2026 02:50:56 GMT
 
-3. [Netanyahu defends Israeli military action as delegates walk out before UN speech](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss)
-   - The Israeli leader labels those who left his speech at the UN General Assembly as "moral cowards".
-   - Published: Fri, 25 Sep 2026 00:44:04 GMT
+3. [At least two dead after explosion destroys building close to Acropolis in Athens](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
+   - Local media report the property included a holiday rental, with US tourists and a UK national among the missing.
+   - Published: Sat, 26 Sep 2026 10:18:51 GMT
 
-4. [Media outlets banned by Trump denied access to White House dinner despite judge's order](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
-   - CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.
-   - Published: Fri, 25 Sep 2026 01:10:35 GMT
+4. [Bangkok roads submerged as flood disaster declared](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss)
+   - An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.
+   - Published: Sat, 26 Sep 2026 07:21:30 GMT
 
-5. [Hundreds of thousands expected in Paris for Pope's visit](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss)
-   - The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.
-   - Published: Fri, 25 Sep 2026 09:35:37 GMT
+5. [South African white genocide does not exist, new ambassador to US tells BBC](https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss)
+   - Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.
+   - Published: Fri, 25 Sep 2026 23:20:48 GMT
 
-_Last updated: 2026-09-25T11:33:42.402656+00:00 UTC_
+_Last updated: 2026-09-26T11:08:14.273337+00:00 UTC_
