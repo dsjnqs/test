@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-29
+# Top 5 Global News — 2026-09-30
 
-1. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-   - The firm also issued an update on incidents in which its models accessed Australian government systems.
-   - Published: Tue, 29 Sep 2026 09:14:13 GMT
+1. [Russia launches largest attack on Ukraine energy infrastructure since spring](https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss)
+   - At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.
+   - Published: Wed, 30 Sep 2026 11:47:27 GMT
 
-2. [Spain announces new housing measures after protests over 87-year-old woman's eviction](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)
-   - The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.
-   - Published: Tue, 29 Sep 2026 12:14:50 GMT
+2. [Last UK and US troops leave Iraq as anti-Islamic State mission ends](https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss)
+   - The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.
+   - Published: Wed, 30 Sep 2026 11:36:23 GMT
 
-3. [Argentina threatens legal action against UK over Falkland Islands oil exploration](https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss)
-   - President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.
-   - Published: Tue, 29 Sep 2026 03:50:40 GMT
+3. [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
+   - Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.
+   - Published: Tue, 29 Sep 2026 23:15:29 GMT
 
-4. [US prosecutors reopen case of alleged gang rape at Cornell University](https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss)
-   - It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.
-   - Published: Tue, 29 Sep 2026 00:38:23 GMT
+4. [Girl has multiple surgeries to control infections after strike in Gaza](https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss)
+   - Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.
+   - Published: Wed, 30 Sep 2026 05:02:50 GMT
 
-5. [Hurricane Polo makes landfall on Mexico's Pacific coast](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
-   - The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.
-   - Published: Tue, 29 Sep 2026 10:34:53 GMT
+5. [US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13](https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss)
+   - Lowe and his wife Kim Painter announce the death of their daughter, who "was the light of our lives".
+   - Published: Wed, 30 Sep 2026 08:59:38 GMT
 
-_Last updated: 2026-09-29T12:31:05.296974+00:00 UTC_
+_Last updated: 2026-09-30T12:16:05.684228+00:00 UTC_
