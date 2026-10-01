@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-09-30
+# Top 5 Global News — 2026-10-01
 
-1. [Russia launches largest attack on Ukraine energy infrastructure since spring](https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss)
-   - At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.
-   - Published: Wed, 30 Sep 2026 11:47:27 GMT
+1. [US death row inmate survives execution attempt after two lethal injections](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
+   - Killer Christa Pike's lawyer says she is being given "life-saving measures" in hospital after two syringes of pentobarbital.
+   - Published: Thu, 01 Oct 2026 09:59:59 GMT
 
-2. [Last UK and US troops leave Iraq as anti-Islamic State mission ends](https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss)
-   - The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.
-   - Published: Wed, 30 Sep 2026 11:36:23 GMT
+2. [Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss)
+   - A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.
+   - Published: Thu, 01 Oct 2026 11:26:46 GMT
 
-3. [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
-   - Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.
-   - Published: Tue, 29 Sep 2026 23:15:29 GMT
+3. [What we know about stabbing on Flydubai flight to Israel](https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss)
+   - A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.
+   - Published: Thu, 01 Oct 2026 02:31:24 GMT
 
-4. [Girl has multiple surgeries to control infections after strike in Gaza](https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss)
-   - Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.
-   - Published: Wed, 30 Sep 2026 05:02:50 GMT
+4. [Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine](https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss)
+   - A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.
+   - Published: Wed, 30 Sep 2026 23:10:06 GMT
 
-5. [US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13](https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss)
-   - Lowe and his wife Kim Painter announce the death of their daughter, who "was the light of our lives".
-   - Published: Wed, 30 Sep 2026 08:59:38 GMT
+5. [Japan raises permanent residency fee by 20 times](https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss)
+   - The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.
+   - Published: Thu, 01 Oct 2026 02:57:43 GMT
 
-_Last updated: 2026-09-30T12:16:05.684228+00:00 UTC_
+_Last updated: 2026-10-01T12:50:55.874837+00:00 UTC_
