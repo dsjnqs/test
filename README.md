@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-02
+# Top 5 Global News — 2026-10-03
 
-1. ['I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
-   - Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
-   - Published: Fri, 02 Oct 2026 09:08:06 GMT
+1. [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
+   - The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
+   - Published: Sat, 03 Oct 2026 11:20:21 GMT
 
-2. [Christa Pike in critical condition after surviving two lethal injections, lawyer says](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
-   - Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
-   - Published: Fri, 02 Oct 2026 11:06:10 GMT
+2. [Russia strikes second major bridge in Kyiv, mayor says](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
+   - The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
+   - Published: Sat, 03 Oct 2026 09:53:16 GMT
 
-3. ['Ashamed': Cornell students gather to voice anger over alleged gang rape](https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss)
-   - Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.
-   - Published: Fri, 02 Oct 2026 10:00:24 GMT
+3. [G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+   - The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+   - Published: Sat, 03 Oct 2026 04:38:31 GMT
 
-4. [Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row](https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss)
-   - President Lee Jae Myung also accused Kyiv of "attempting to provoke a war on the Korean Peninsula".
-   - Published: Fri, 02 Oct 2026 03:09:13 GMT
+4. [US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss)
+   - As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
+   - Published: Fri, 02 Oct 2026 20:32:07 GMT
 
-5. [Japan's first mayor to take maternity leave lands on TIME100 Next list](https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss)
-   - Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.
-   - Published: Fri, 02 Oct 2026 05:53:51 GMT
+5. [UK-Iranian dual national bailed after RAF Fairford incident arrest](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
+   - The 25-year-old man was arrested in the London borough of Westminster on Thursday.
+   - Published: Sat, 03 Oct 2026 10:58:51 GMT
 
-_Last updated: 2026-10-02T12:14:02.928912+00:00 UTC_
+_Last updated: 2026-10-03T11:25:13.943370+00:00 UTC_
