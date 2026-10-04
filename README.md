@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-03
+# Top 5 Global News — 2026-10-04
 
-1. [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
-   - The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
-   - Published: Sat, 03 Oct 2026 11:20:21 GMT
+1. [Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
+   - Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
+   - Published: Sun, 04 Oct 2026 11:25:35 GMT
 
-2. [Russia strikes second major bridge in Kyiv, mayor says](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
-   - The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
-   - Published: Sat, 03 Oct 2026 09:53:16 GMT
+2. [Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
+   - State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
+   - Published: Sun, 04 Oct 2026 06:19:17 GMT
 
-3. [G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
-   - The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
-   - Published: Sat, 03 Oct 2026 04:38:31 GMT
+3. [Tennessee prison chief to resign after Christa Pike's failed execution](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
+   - Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
+   - Published: Sat, 03 Oct 2026 17:48:42 GMT
 
-4. [US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss)
-   - As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.
-   - Published: Fri, 02 Oct 2026 20:32:07 GMT
+4. [Cornell president says university 'must do better' after frat house rape allegations](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
+   - Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
+   - Published: Sun, 04 Oct 2026 00:11:25 GMT
 
-5. [UK-Iranian dual national bailed after RAF Fairford incident arrest](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
-   - The 25-year-old man was arrested in the London borough of Westminster on Thursday.
-   - Published: Sat, 03 Oct 2026 10:58:51 GMT
+5. ['Anger in the streets': Tens of thousands protest in Spain over housing crisis](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss)
+   - More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.
+   - Published: Sun, 04 Oct 2026 03:42:15 GMT
 
-_Last updated: 2026-10-03T11:25:13.943370+00:00 UTC_
+_Last updated: 2026-10-04T12:06:05.911422+00:00 UTC_
