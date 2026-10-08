@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-07
+# Top 5 Global News — 2026-10-08
 
-1. [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
-   - The step comes after several groups complained of police using disproportionate force towards teenagers.
-   - Published: Wed, 07 Oct 2026 12:16:58 GMT
+1. [Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss)
+   - Ukraine accused Russia of targeting the crowded vehicles in the frontline city of Kramatorsk to kill as many civilians as possible.
+   - Published: Thu, 08 Oct 2026 12:43:56 GMT
 
-2. [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-   - A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a "basic way".
-   - Published: Wed, 07 Oct 2026 10:12:36 GMT
+2. [US and Lebanon protecting wanted Syrian general, BBC finds](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
+   - Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.
+   - Published: Thu, 08 Oct 2026 05:00:44 GMT
 
-3. [Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
-   - Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
-   - Published: Wed, 07 Oct 2026 05:02:18 GMT
+3. [Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
+   - Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
+   - Published: Thu, 08 Oct 2026 08:18:36 GMT
 
-4. [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
-   - Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.
-   - Published: Wed, 07 Oct 2026 12:58:03 GMT
+4. [Christa Pike now walking after failed US execution, lawyer tells BBC](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss)
+   - A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.
+   - Published: Thu, 08 Oct 2026 08:13:52 GMT
 
-5. [Zelensky condemns 'vile' large-scale Russian attacks that killed 15](https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss)
-   - Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.
-   - Published: Wed, 07 Oct 2026 11:05:37 GMT
+5. [Italy overhauls electoral system after fiercely contested debate](https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss)
+   - Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.
+   - Published: Thu, 08 Oct 2026 12:32:12 GMT
 
-_Last updated: 2026-10-07T13:02:04.295986+00:00 UTC_
+_Last updated: 2026-10-08T13:09:20.408626+00:00 UTC_
