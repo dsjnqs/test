@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-09
+# Top 5 Global News — 2026-10-10
 
-1. [Firing squad execution to be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
-   - Pete Hegseth says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".
-   - Published: Fri, 09 Oct 2026 12:24:58 GMT
+1. [Russian glide bomb attack on Zaporizhzhia kills at least 15 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+   - Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
+   - Published: Sat, 10 Oct 2026 11:17:15 GMT
 
-2. [Fort Hood survivor supports gunman's execution by firing squad but questions livestream](https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss)
-   - Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.
-   - Published: Fri, 09 Oct 2026 09:43:22 GMT
+2. [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
+   - Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
+   - Published: Sat, 10 Oct 2026 04:38:20 GMT
 
-3. [France promises 3,000 extra teachers in first step to calm student protests](https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss)
-   - Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.
-   - Published: Fri, 09 Oct 2026 11:35:00 GMT
+3. [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
+   - The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+   - Published: Fri, 09 Oct 2026 22:30:22 GMT
 
-4. [Suspect linked to Monaco bomb attack on millionaire speaks to BBC](https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss)
-   - Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.
-   - Published: Thu, 08 Oct 2026 23:11:10 GMT
+4. [Three men found guilty of murdering Australian brothers and US friend in Mexico](https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss)
+   - Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.
+   - Published: Fri, 09 Oct 2026 21:55:51 GMT
 
-5. [Thieves steal 30,000 wine bottles worth €5m in Italy, reports say](https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss)
-   - The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.
-   - Published: Fri, 09 Oct 2026 09:09:03 GMT
+5. [Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
+   - The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
+   - Published: Sat, 10 Oct 2026 04:34:55 GMT
 
-_Last updated: 2026-10-09T12:56:05.947738+00:00 UTC_
+_Last updated: 2026-10-10T12:13:51.227887+00:00 UTC_
