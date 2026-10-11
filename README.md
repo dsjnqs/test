@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-10
+# Top 5 Global News — 2026-10-11
 
-1. [Russian glide bomb attack on Zaporizhzhia kills at least 15 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
-   - Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
-   - Published: Sat, 10 Oct 2026 11:17:15 GMT
+1. ['Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
+   - Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
+   - Published: Sun, 11 Oct 2026 01:41:29 GMT
 
-2. [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
-   - Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
-   - Published: Sat, 10 Oct 2026 04:38:20 GMT
+2. [Pope Leo to have surgery after lump found on lung](https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss)
+   - The 71-year-old pontiff said the nodule was identified "at a very early stage".
+   - Published: Sun, 11 Oct 2026 12:23:19 GMT
 
-3. [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
-   - The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
-   - Published: Fri, 09 Oct 2026 22:30:22 GMT
+3. [Homes and bridges swept away as fresh floods hit Nepal](https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss)
+   - Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.
+   - Published: Sun, 11 Oct 2026 12:03:52 GMT
 
-4. [Three men found guilty of murdering Australian brothers and US friend in Mexico](https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss)
-   - Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.
-   - Published: Fri, 09 Oct 2026 21:55:51 GMT
+4. [Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on](https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss)
+   - Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.
+   - Published: Sun, 11 Oct 2026 11:11:42 GMT
 
-5. [Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
-   - The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
-   - Published: Sat, 10 Oct 2026 04:34:55 GMT
+5. [US justice department investigates TV networks over Trump pool coverage](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
+   - The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
+   - Published: Sun, 11 Oct 2026 05:05:43 GMT
 
-_Last updated: 2026-10-10T12:13:51.227887+00:00 UTC_
+_Last updated: 2026-10-11T12:28:26.311965+00:00 UTC_
