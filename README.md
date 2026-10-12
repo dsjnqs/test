@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-11
+# Top 5 Global News — 2026-10-12
 
-1. ['Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
-   - Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
-   - Published: Sun, 11 Oct 2026 01:41:29 GMT
+1. [Documents falsified to evade tax on Abramovich's wealth, BBC finds](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+   - Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.
+   - Published: Mon, 12 Oct 2026 05:00:52 GMT
 
-2. [Pope Leo to have surgery after lump found on lung](https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss)
-   - The 71-year-old pontiff said the nodule was identified "at a very early stage".
-   - Published: Sun, 11 Oct 2026 12:23:19 GMT
+2. [Saudi minister vows 'serious response' to Houthi attacks on airports](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
+   - It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
+   - Published: Mon, 12 Oct 2026 14:00:03 GMT
 
-3. [Homes and bridges swept away as fresh floods hit Nepal](https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss)
-   - Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.
-   - Published: Sun, 11 Oct 2026 12:03:52 GMT
+3. [South Africa's deputy police chief resigns after being charged with sexual offences](https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss)
+   - Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.
+   - Published: Mon, 12 Oct 2026 14:40:15 GMT
 
-4. [Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on](https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss)
-   - Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.
-   - Published: Sun, 11 Oct 2026 11:11:42 GMT
+4. [US detains man accused in multi-billion Venezuelan money laundering scheme](https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss)
+   - US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.
+   - Published: Mon, 12 Oct 2026 13:49:05 GMT
 
-5. [US justice department investigates TV networks over Trump pool coverage](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
-   - The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
-   - Published: Sun, 11 Oct 2026 05:05:43 GMT
+5. [Immigration agents search Congresswoman Ilhan Omar's home](https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss)
+   - Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.
+   - Published: Mon, 12 Oct 2026 14:21:12 GMT
 
-_Last updated: 2026-10-11T12:28:26.311965+00:00 UTC_
+_Last updated: 2026-10-12T15:00:07.304060+00:00 UTC_
