@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-12
+# Top 5 Global News — 2026-10-13
 
-1. [Documents falsified to evade tax on Abramovich's wealth, BBC finds](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
-   - Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.
-   - Published: Mon, 12 Oct 2026 05:00:52 GMT
+1. [Russia's offensive ability is broken, Kyiv's former top general tells BBC](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
+   - In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
+   - Published: Tue, 13 Oct 2026 05:02:34 GMT
 
-2. [Saudi minister vows 'serious response' to Houthi attacks on airports](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
-   - It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
-   - Published: Mon, 12 Oct 2026 14:00:03 GMT
+2. [Breaking Bad actor RJ Mitte dies aged 34](https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss)
+   - Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.
+   - Published: Tue, 13 Oct 2026 08:03:34 GMT
 
-3. [South Africa's deputy police chief resigns after being charged with sexual offences](https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss)
-   - Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.
-   - Published: Mon, 12 Oct 2026 14:40:15 GMT
+3. [One dead and several hurt after rollercoaster incident at Six Flags](https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss)
+   - Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.
+   - Published: Tue, 13 Oct 2026 10:28:07 GMT
 
-4. [US detains man accused in multi-billion Venezuelan money laundering scheme](https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss)
-   - US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.
-   - Published: Mon, 12 Oct 2026 13:49:05 GMT
+4. [Watch: Emergency calls from botched Christa Pike execution released](https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss)
+   - A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.
+   - Published: Tue, 13 Oct 2026 12:03:51 GMT
 
-5. [Immigration agents search Congresswoman Ilhan Omar's home](https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss)
-   - Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.
-   - Published: Mon, 12 Oct 2026 14:21:12 GMT
+5. [Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack](https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss)
+   - Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.
+   - Published: Tue, 13 Oct 2026 13:17:58 GMT
 
-_Last updated: 2026-10-12T15:00:07.304060+00:00 UTC_
+_Last updated: 2026-10-13T13:55:48.092288+00:00 UTC_
