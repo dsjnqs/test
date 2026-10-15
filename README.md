@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-14
+# Top 5 Global News — 2026-10-15
 
-1. [Starlink restrictions affecting Ukraine's front line operations, Kyiv says](https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss)
-   - Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.
-   - Published: Wed, 14 Oct 2026 11:32:07 GMT
+1. [Ukraine to restart strikes on Russian oil refineries, Zelensky says](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
+   - Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
+   - Published: Thu, 15 Oct 2026 10:27:26 GMT
 
-2. [Pope diagnosed with lung cancer but had successful surgery, Vatican says](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
-   - Pope Leo had a "peaceful night" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.
-   - Published: Wed, 14 Oct 2026 11:17:51 GMT
+2. [Two dead in Istanbul after heaviest rainfall in 84 years, governor says](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)
+   - Residents have been told to avoid leaving their homes unless absolutely necessary.
+   - Published: Thu, 15 Oct 2026 10:05:29 GMT
 
-3. [Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)
-   - Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.
-   - Published: Wed, 14 Oct 2026 09:32:54 GMT
+3. [Eight crew missing in tanker fire off Romania's coast](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)
+   - A search and rescue operation is under way in the Black Sea after a suspected drone attack on the Wine Trader tanker.
+   - Published: Thu, 15 Oct 2026 10:13:11 GMT
 
-4. [Saudi employee charged with planting recording device in OpenAI office](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
-   - Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
-   - Published: Tue, 13 Oct 2026 21:42:49 GMT
+4. [White House defends new press secretary amid questions about her legal credentials](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)
+   - Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.
+   - Published: Thu, 15 Oct 2026 08:41:04 GMT
 
-5. [Turkish police raid opposition TV station, halting live broadcasts](https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss)
-   - It is the latest in a series of crackdowns on media critical of the Turkish president and his government.
-   - Published: Wed, 14 Oct 2026 10:50:11 GMT
+5. [Brazil's Congress approves shorter working week in win for Lula](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)
+   - Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.
+   - Published: Thu, 15 Oct 2026 10:05:17 GMT
 
-_Last updated: 2026-10-14T11:32:54.259537+00:00 UTC_
+_Last updated: 2026-10-15T11:11:16.559384+00:00 UTC_
