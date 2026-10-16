@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-15
+# Top 5 Global News — 2026-10-16
 
-1. [Ukraine to restart strikes on Russian oil refineries, Zelensky says](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
-   - Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
-   - Published: Thu, 15 Oct 2026 10:27:26 GMT
+1. [Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
+   - A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.
+   - Published: Fri, 16 Oct 2026 10:36:50 GMT
 
-2. [Two dead in Istanbul after heaviest rainfall in 84 years, governor says](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)
-   - Residents have been told to avoid leaving their homes unless absolutely necessary.
-   - Published: Thu, 15 Oct 2026 10:05:29 GMT
+2. ['It's really hard to believe' - How Oregon primary school shooting unfolded](https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss)
+   - Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.
+   - Published: Fri, 16 Oct 2026 08:27:16 GMT
 
-3. [Eight crew missing in tanker fire off Romania's coast](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)
-   - A search and rescue operation is under way in the Black Sea after a suspected drone attack on the Wine Trader tanker.
-   - Published: Thu, 15 Oct 2026 10:13:11 GMT
+3. [Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)
+   - BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.
+   - Published: Fri, 16 Oct 2026 05:00:17 GMT
 
-4. [White House defends new press secretary amid questions about her legal credentials](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)
-   - Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.
-   - Published: Thu, 15 Oct 2026 08:41:04 GMT
+4. [Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
+   - The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.
+   - Published: Fri, 16 Oct 2026 10:37:47 GMT
 
-5. [Brazil's Congress approves shorter working week in win for Lula](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)
-   - Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.
-   - Published: Thu, 15 Oct 2026 10:05:17 GMT
+5. [China tells Israel to stop 'forced establishment' of West Bank settlements](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss)
+   - Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.
+   - Published: Fri, 16 Oct 2026 08:45:54 GMT
 
-_Last updated: 2026-10-15T11:11:16.559384+00:00 UTC_
+_Last updated: 2026-10-16T11:05:57.206231+00:00 UTC_
