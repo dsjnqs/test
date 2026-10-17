@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-16
+# Top 5 Global News — 2026-10-17
 
-1. [Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
-   - A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.
-   - Published: Fri, 16 Oct 2026 10:36:50 GMT
+1. [Trump waives several Russia sanctions as row with Zelensky intensifies](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+   - The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+   - Published: Sat, 17 Oct 2026 09:42:13 GMT
 
-2. ['It's really hard to believe' - How Oregon primary school shooting unfolded](https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss)
-   - Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.
-   - Published: Fri, 16 Oct 2026 08:27:16 GMT
+2. [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+   - The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+   - Published: Sat, 17 Oct 2026 09:58:17 GMT
 
-3. [Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)
-   - BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.
-   - Published: Fri, 16 Oct 2026 05:00:17 GMT
+3. [Three men jailed for 158 years each for murdering Australian and US surfers in Mexico](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)
+   - Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.
+   - Published: Sat, 17 Oct 2026 03:11:10 GMT
 
-4. [Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
-   - The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.
-   - Published: Fri, 16 Oct 2026 10:37:47 GMT
+4. [Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
+   - The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
+   - Published: Fri, 16 Oct 2026 16:00:30 GMT
 
-5. [China tells Israel to stop 'forced establishment' of West Bank settlements](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss)
-   - Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.
-   - Published: Fri, 16 Oct 2026 08:45:54 GMT
+5. [Brazil sees record fall in Amazon deforestation as key election looms](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)
+   - The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.
+   - Published: Sat, 17 Oct 2026 02:33:09 GMT
 
-_Last updated: 2026-10-16T11:05:57.206231+00:00 UTC_
+_Last updated: 2026-10-17T10:25:35.053191+00:00 UTC_
