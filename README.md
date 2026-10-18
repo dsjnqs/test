@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-17
+# Top 5 Global News — 2026-10-18
 
-1. [Trump waives several Russia sanctions as row with Zelensky intensifies](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
-   - The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
-   - Published: Sat, 17 Oct 2026 09:42:13 GMT
+1. [Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
+   - Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
+   - Published: Sun, 18 Oct 2026 09:56:45 GMT
 
-2. [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
-   - The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
-   - Published: Sat, 17 Oct 2026 09:58:17 GMT
+2. [Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat](https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss)
+   - Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.
+   - Published: Sat, 17 Oct 2026 22:09:50 GMT
 
-3. [Three men jailed for 158 years each for murdering Australian and US surfers in Mexico](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)
-   - Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.
-   - Published: Sat, 17 Oct 2026 03:11:10 GMT
+3. [A wave of homemade, synthetic drugs sweeps US and deepens crisis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)
+   - BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.
+   - Published: Sun, 18 Oct 2026 05:04:31 GMT
 
-4. [Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
-   - The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
-   - Published: Fri, 16 Oct 2026 16:00:30 GMT
+4. [European diplomats attacked by Israeli settlers in West Bank](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
+   - The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.
+   - Published: Sat, 17 Oct 2026 23:52:38 GMT
 
-5. [Brazil sees record fall in Amazon deforestation as key election looms](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)
-   - The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.
-   - Published: Sat, 17 Oct 2026 02:33:09 GMT
+5. [Several dead or injured in major fire at Canada military base](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)
+   - Officials have not given a cause or death toll, citing the "very active and delicate" situation at Canadian Forces Base Wainwright.
+   - Published: Sun, 18 Oct 2026 08:52:41 GMT
 
-_Last updated: 2026-10-17T10:25:35.053191+00:00 UTC_
+_Last updated: 2026-10-18T10:44:12.225246+00:00 UTC_
