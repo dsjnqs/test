@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-19
+# Top 5 Global News — 2026-10-20
 
-1. [Alberta heads to polls to decide whether to hold vote on separation from Canada](https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss)
-   - Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.
-   - Published: Mon, 19 Oct 2026 09:24:33 GMT
+1. [Suspect arrested after historic town hall set alight during disorder - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
+   - The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.
+   - Published: Tue, 20 Oct 2026 08:58:26 GMT
 
-2. [Kenya pastor accused of ordering parents to starve their children to death faces verdict](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)
-   - Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.
-   - Published: Mon, 19 Oct 2026 10:33:12 GMT
+2. [Seventh day of violent clashes between Albanian protesters and police](https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss)
+   - Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.
+   - Published: Tue, 20 Oct 2026 02:45:05 GMT
 
-3. [Funding shortages force World Food Programme to cut aid to Gaza](https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss)
-   - The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.
-   - Published: Mon, 19 Oct 2026 06:00:18 GMT
+3. [Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure](https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss)
+   - The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.
+   - Published: Tue, 20 Oct 2026 03:10:39 GMT
 
-4. [Trump says suspension of Russia sanctions is to keep peace negotiations going](https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss)
-   - The US president blocked numerous sanctions on Russia two days before they were due to take effect.
-   - Published: Sun, 18 Oct 2026 23:20:15 GMT
+4. [Why Israeli Gen Z voters are drawn to the far right](https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss)
+   - More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
+   - Published: Tue, 20 Oct 2026 08:53:06 GMT
 
-5. [Personal attacks fire up debate before Brazil's run-off vote](https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss)
-   - The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.
-   - Published: Mon, 19 Oct 2026 11:41:24 GMT
+5. [Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)
+   - Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
+   - Published: Mon, 19 Oct 2026 20:49:00 GMT
 
-_Last updated: 2026-10-19T12:43:50.488569+00:00 UTC_
+_Last updated: 2026-10-20T11:14:50.170492+00:00 UTC_
