@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-20
+# Top 5 Global News — 2026-10-21
 
-1. [Suspect arrested after historic town hall set alight during disorder - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
-   - The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.
-   - Published: Tue, 20 Oct 2026 08:58:26 GMT
+1. [US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
+   - The former teacher has been released without any "swap" required, according to the president.
+   - Published: Wed, 21 Oct 2026 10:52:00 GMT
 
-2. [Seventh day of violent clashes between Albanian protesters and police](https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss)
-   - Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.
-   - Published: Tue, 20 Oct 2026 02:45:05 GMT
+2. [Trump and Zelensky appear at loggerheads despite new optimism](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)
+   - The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.
+   - Published: Tue, 20 Oct 2026 20:00:57 GMT
 
-3. [Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure](https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss)
-   - The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.
-   - Published: Tue, 20 Oct 2026 03:10:39 GMT
+3. [Katya Adler: France divided over who to blame for riots and what to learn from them](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
+   - In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.
+   - Published: Wed, 21 Oct 2026 06:50:40 GMT
 
-4. [Why Israeli Gen Z voters are drawn to the far right](https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss)
-   - More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
-   - Published: Tue, 20 Oct 2026 08:53:06 GMT
+4. [Australian MP loses both legs after alleged car attack, husband says](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)
+   - Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.
+   - Published: Wed, 21 Oct 2026 07:56:30 GMT
 
-5. [Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)
-   - Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
-   - Published: Mon, 19 Oct 2026 20:49:00 GMT
+5. [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+   - Musk says special committees within both companies have been formed to look at a possible mega-merger.
+   - Published: Wed, 21 Oct 2026 08:42:49 GMT
 
-_Last updated: 2026-10-20T11:14:50.170492+00:00 UTC_
+_Last updated: 2026-10-21T11:30:51.853702+00:00 UTC_
