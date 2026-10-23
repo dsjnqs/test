@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-22
+# Top 5 Global News — 2026-10-23
 
-1. [Police investigate Married at First Sight Australia after 'inappropriate' allegations](https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss)
-   - New South Wales Police say inquiries took place "following a report of inappropriate content being shared".
-   - Published: Thu, 22 Oct 2026 09:47:54 GMT
+1. [Ukraine says Starlink still restricted after Trump says limits lifted](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
+   - Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.
+   - Published: Fri, 23 Oct 2026 11:01:08 GMT
 
-2. [At least four dead after storm brings flooding to southern France](https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss)
-   - The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.
-   - Published: Thu, 22 Oct 2026 11:23:16 GMT
+2. [Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
+   - The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.
+   - Published: Fri, 23 Oct 2026 10:26:06 GMT
 
-3. [El Salvador's president threatens Haitian gangs over military hostages](https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss)
-   - Four members of the so-called Gang Suppression Force have been missing since Sunday.
-   - Published: Thu, 22 Oct 2026 10:17:48 GMT
+3. [Cyprus police open investigation into financial affairs of Roman Abramovich](https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss)
+   - Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.
+   - Published: Fri, 23 Oct 2026 10:14:37 GMT
 
-4. [Two European women held captive for more than a year in Niger freed in Libya](https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss)
-   - The Swiss government told the BBC that the freed national was on her way back to Switzerland.
-   - Published: Thu, 22 Oct 2026 11:13:12 GMT
+4. [Hundreds of flights cancelled as Typhoon Champi shuts Taiwan](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)
+   - One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.
+   - Published: Fri, 23 Oct 2026 08:45:58 GMT
 
-5. [Celebrity shark guided out of South Korea canal refuses to swim out to sea](https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss)
-   - Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.
-   - Published: Thu, 22 Oct 2026 10:16:35 GMT
+5. [Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)
+   - The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.
+   - Published: Fri, 23 Oct 2026 10:23:07 GMT
 
-_Last updated: 2026-10-22T11:30:44.531728+00:00 UTC_
+_Last updated: 2026-10-23T11:20:26.062688+00:00 UTC_
