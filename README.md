@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-23
+# Top 5 Global News — 2026-10-24
 
-1. [Ukraine says Starlink still restricted after Trump says limits lifted](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
-   - Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.
-   - Published: Fri, 23 Oct 2026 11:01:08 GMT
+1. [Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)
+   - Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.
+   - Published: Sat, 24 Oct 2026 10:22:34 GMT
 
-2. [Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
-   - The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.
-   - Published: Fri, 23 Oct 2026 10:26:06 GMT
+2. [Father who killed Oregon school gunman describes anguish over children he couldn't save](https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss)
+   - Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.
+   - Published: Fri, 23 Oct 2026 22:47:07 GMT
 
-3. [Cyprus police open investigation into financial affairs of Roman Abramovich](https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss)
-   - Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.
-   - Published: Fri, 23 Oct 2026 10:14:37 GMT
+3. [Student movement takes Serbia's Vučić to the wire in neck-and-neck election](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)
+   - The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.
+   - Published: Fri, 23 Oct 2026 23:08:23 GMT
 
-4. [Hundreds of flights cancelled as Typhoon Champi shuts Taiwan](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)
-   - One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.
-   - Published: Fri, 23 Oct 2026 08:45:58 GMT
+4. [White House lifts tariffs on some Canadian goods as midterm elections loom](https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss)
+   - From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.
+   - Published: Sat, 24 Oct 2026 00:36:47 GMT
 
-5. [Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)
-   - The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.
-   - Published: Fri, 23 Oct 2026 10:23:07 GMT
+5. [Australian MP's condition improves after alleged car attack](https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss)
+   - The independent MP is now in a serious but stable condition, according to the Melbourne hospital.
+   - Published: Sat, 24 Oct 2026 01:55:15 GMT
 
-_Last updated: 2026-10-23T11:20:26.062688+00:00 UTC_
+_Last updated: 2026-10-24T10:39:38.871297+00:00 UTC_
