@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-27
+# Top 5 Global News — 2026-10-28
 
-1. [Turnout so far highest in decades as Israelis vote in pivotal election](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
-   - The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
-   - Published: Tue, 27 Oct 2026 11:11:33 GMT
+1. [Luxury cruise passengers stranded in Cambodia due to soaring fuel costs](https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss)
+   - The Villa Vie Odyssey suspended its voyage and is working with passengers on "temporary living arrangements".
+   - Published: Wed, 28 Oct 2026 10:31:22 GMT
 
-2. [Lula's comeback in Brazil dents Trump's ambitions for Latin America](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss)
-   - The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.
-   - Published: Tue, 27 Oct 2026 01:46:38 GMT
+2. [Serbian shot dead after attacking officer outside Israeli embassy, minister says](https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss)
+   - Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.
+   - Published: Wed, 28 Oct 2026 10:17:54 GMT
 
-3. [Truce begins in Ukraine city where residents ate weeds to survive](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss)
-   - The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.
-   - Published: Tue, 27 Oct 2026 11:17:27 GMT
+3. [Tanzania celebrates first natural gas discovery in more than 10 years](https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss)
+   - The energy minister described it as a "major milestone" for the East African nation.
+   - Published: Wed, 28 Oct 2026 10:18:40 GMT
 
-4. [Jordan carries out deadly strike in Syria in retaliation for church attack](https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss)
-   - The attack on a village in Syria killed five people, including women and children, Syrian health officials said.
-   - Published: Tue, 27 Oct 2026 02:40:17 GMT
+4. [Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin](https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss)
+   - No official reason has been given for postponing next month’s hearing to May 2027, family says.
+   - Published: Wed, 28 Oct 2026 08:28:39 GMT
 
-5. [Ex-FBI chief James Comey faces federal charges for third time](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss)
-   - Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.
-   - Published: Tue, 27 Oct 2026 11:44:54 GMT
+5. [Ceasefire extended across Ukraine's Kherson region, officials say](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss)
+   - The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
+   - Published: Tue, 27 Oct 2026 22:11:08 GMT
 
-_Last updated: 2026-10-27T11:53:51.986086+00:00 UTC_
+_Last updated: 2026-10-28T12:29:19.639463+00:00 UTC_
