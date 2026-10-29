@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-28
+# Top 5 Global News — 2026-10-29
 
-1. [Luxury cruise passengers stranded in Cambodia due to soaring fuel costs](https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss)
-   - The Villa Vie Odyssey suspended its voyage and is working with passengers on "temporary living arrangements".
-   - Published: Wed, 28 Oct 2026 10:31:22 GMT
+1. [Audio reveals exchanges between control centre and drivers before deadly Spain train crash](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+   - The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
+   - Published: Thu, 29 Oct 2026 11:07:35 GMT
 
-2. [Serbian shot dead after attacking officer outside Israeli embassy, minister says](https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss)
-   - Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.
-   - Published: Wed, 28 Oct 2026 10:17:54 GMT
+2. [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
+   - The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
+   - Published: Thu, 29 Oct 2026 01:14:01 GMT
 
-3. [Tanzania celebrates first natural gas discovery in more than 10 years](https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss)
-   - The energy minister described it as a "major milestone" for the East African nation.
-   - Published: Wed, 28 Oct 2026 10:18:40 GMT
+3. [Netanyahu's bloc leading Israel election but short of majority, partial results show](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss)
+   - With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.
+   - Published: Thu, 29 Oct 2026 11:22:18 GMT
 
-4. [Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin](https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss)
-   - No official reason has been given for postponing next month’s hearing to May 2027, family says.
-   - Published: Wed, 28 Oct 2026 08:28:39 GMT
+4. [Carney to push for closer ties at Canada-EU summit in Montreal](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss)
+   - The term "associate member" is reportedly off the table as officials discuss deeper economic and defence ties.
+   - Published: Thu, 29 Oct 2026 12:27:31 GMT
 
-5. [Ceasefire extended across Ukraine's Kherson region, officials say](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss)
-   - The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
-   - Published: Tue, 27 Oct 2026 22:11:08 GMT
+5. [Details of thousands of US immigration agents leaked in major hack](https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss)
+   - A group called the Department of Peace released information on more than 41,000 DHS staff.
+   - Published: Thu, 29 Oct 2026 01:30:43 GMT
 
-_Last updated: 2026-10-28T12:29:19.639463+00:00 UTC_
+_Last updated: 2026-10-29T12:40:51.892757+00:00 UTC_
