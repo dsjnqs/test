@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-29
+# Top 5 Global News — 2026-10-30
 
-1. [Audio reveals exchanges between control centre and drivers before deadly Spain train crash](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
-   - The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
-   - Published: Thu, 29 Oct 2026 11:07:35 GMT
+1. [Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
+   - Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
+   - Published: Fri, 30 Oct 2026 12:25:53 GMT
 
-2. [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
-   - The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
-   - Published: Thu, 29 Oct 2026 01:14:01 GMT
+2. [Mushroom murderer fails to overturn convictions in Australian court challenge](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
+   - Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
+   - Published: Fri, 30 Oct 2026 01:35:40 GMT
 
-3. [Netanyahu's bloc leading Israel election but short of majority, partial results show](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss)
-   - With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.
-   - Published: Thu, 29 Oct 2026 11:22:18 GMT
+3. [Syrians struggle with soaring prices as crisis challenges post-Assad recovery](https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss)
+   - End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.
+   - Published: Fri, 30 Oct 2026 06:02:23 GMT
 
-4. [Carney to push for closer ties at Canada-EU summit in Montreal](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss)
-   - The term "associate member" is reportedly off the table as officials discuss deeper economic and defence ties.
-   - Published: Thu, 29 Oct 2026 12:27:31 GMT
+4. [How Kenyans got caught in $130m US ghost student scam](https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss)
+   - The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.
+   - Published: Fri, 30 Oct 2026 08:32:35 GMT
 
-5. [Details of thousands of US immigration agents leaked in major hack](https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss)
-   - A group called the Department of Peace released information on more than 41,000 DHS staff.
-   - Published: Thu, 29 Oct 2026 01:30:43 GMT
+5. [Helicopter carrying six people crashes in northern Indian state](https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss)
+   - The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.
+   - Published: Fri, 30 Oct 2026 10:07:58 GMT
 
-_Last updated: 2026-10-29T12:40:51.892757+00:00 UTC_
+_Last updated: 2026-10-30T12:32:13.861425+00:00 UTC_
