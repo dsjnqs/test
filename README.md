@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-10-30
+# Top 5 Global News — 2026-10-31
 
-1. [Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
-   - Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
-   - Published: Fri, 30 Oct 2026 12:25:53 GMT
+1. [Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
+   - Residents were taken out from the devastated city on Friday during a local ceasefire.
+   - Published: Sat, 31 Oct 2026 11:18:14 GMT
 
-2. [Mushroom murderer fails to overturn convictions in Australian court challenge](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
-   - Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
-   - Published: Fri, 30 Oct 2026 01:35:40 GMT
+2. [US approves sale of 500 Patriot missiles to Ukraine](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
+   - The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
+   - Published: Sat, 31 Oct 2026 00:40:43 GMT
 
-3. [Syrians struggle with soaring prices as crisis challenges post-Assad recovery](https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss)
-   - End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.
-   - Published: Fri, 30 Oct 2026 06:02:23 GMT
+3. [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
+   - If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
+   - Published: Sat, 31 Oct 2026 02:12:19 GMT
 
-4. [How Kenyans got caught in $130m US ghost student scam](https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss)
-   - The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.
-   - Published: Fri, 30 Oct 2026 08:32:35 GMT
+4. [Police deployed during stand-off over control of top Poland court](https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss)
+   - The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.
+   - Published: Sat, 31 Oct 2026 01:11:43 GMT
 
-5. [Helicopter carrying six people crashes in northern Indian state](https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss)
-   - The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.
-   - Published: Fri, 30 Oct 2026 10:07:58 GMT
+5. [Spain train disaster clouds Sánchez chances of re-election](https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss)
+   - The Spanish PM is hit by a succession of crises just weeks before a snap general election.
+   - Published: Sat, 31 Oct 2026 05:44:21 GMT
 
-_Last updated: 2026-10-30T12:32:13.861425+00:00 UTC_
+_Last updated: 2026-10-31T11:58:46.049392+00:00 UTC_
