@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-04
+# Top 5 Global News — 2026-11-05
 
-1. ['This is a disaster': Angry Republicans blame Trump for midterms defeat](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
-   - Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
-   - Published: Wed, 04 Nov 2026 13:33:30 GMT
+1. [Vance walks Trump tightrope with scathing election critique blaming Iran war](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
+   - The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
+   - Published: Thu, 05 Nov 2026 03:47:56 GMT
 
-2. [James Talarico becomes first Democrat to win Texas Senate seat since 1988](https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss)
-   - "This wasn't just a tsunami, not just a referendum, but this was a bloodbath," one expert told the BBC on Democrats' historic wins in Texas.
-   - Published: Wed, 04 Nov 2026 05:39:36 GMT
+2. [What Democrats can and can't do with their new power after taking Congress](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
+   - Democrats can vote legislation through. But Trump still has veto power.
+   - Published: Wed, 04 Nov 2026 18:01:27 GMT
 
-3. [Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator](https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss)
-   - El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.
-   - Published: Wed, 04 Nov 2026 10:03:19 GMT
+3. [France holds new strikes and protests as unions demand immediate answers](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
+   - Five of France's unions join a wave of strikes and protests in a national day of action.
+   - Published: Thu, 05 Nov 2026 13:04:04 GMT
 
-4. [Florida Republicans fend off Democrats as state elects first black governor](https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss)
-   - Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.
-   - Published: Wed, 04 Nov 2026 07:12:21 GMT
+4. [Ronaldo retires from Portugal duty](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
+   - Portugal legend Cristiano Ronaldo says "the day has come for me to hand back the number seven shirt".
+   - Published: Thu, 05 Nov 2026 12:28:01 GMT
 
-5. [Iran's chief negotiator says Americans voted 'no to war'](https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss)
-   - "We endorse this message," Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.
-   - Published: Wed, 04 Nov 2026 12:21:21 GMT
+5. [Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years](https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss)
+   - Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.
+   - Published: Thu, 05 Nov 2026 13:51:03 GMT
 
-_Last updated: 2026-11-04T14:07:35.740758+00:00 UTC_
+_Last updated: 2026-11-05T14:25:29.111400+00:00 UTC_
