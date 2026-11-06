@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-05
+# Top 5 Global News — 2026-11-06
 
-1. [Vance walks Trump tightrope with scathing election critique blaming Iran war](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
-   - The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
-   - Published: Thu, 05 Nov 2026 03:47:56 GMT
+1. [White House denies Hegseth and Rubio to leave jobs after Republican election losses](https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss)
+   - US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.
+   - Published: Fri, 06 Nov 2026 02:08:57 GMT
 
-2. [What Democrats can and can't do with their new power after taking Congress](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
-   - Democrats can vote legislation through. But Trump still has veto power.
-   - Published: Wed, 04 Nov 2026 18:01:27 GMT
+2. [Trump signs order to preserve Oval Office as national monument](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)
+   - The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.
+   - Published: Fri, 06 Nov 2026 09:19:57 GMT
 
-3. [France holds new strikes and protests as unions demand immediate answers](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
-   - Five of France's unions join a wave of strikes and protests in a national day of action.
-   - Published: Thu, 05 Nov 2026 13:04:04 GMT
+3. [Two dead after bus crashes in France, officials say](https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss)
+   - One child and one young adult were killed in the crash, local authorities say, with more injured.
+   - Published: Fri, 06 Nov 2026 12:27:33 GMT
 
-4. [Ronaldo retires from Portugal duty](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
-   - Portugal legend Cristiano Ronaldo says "the day has come for me to hand back the number seven shirt".
-   - Published: Thu, 05 Nov 2026 12:28:01 GMT
+4. [Kenyan doomsday cult leader given life sentence for murdering 191 people](https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss)
+   - Paul Mackenzie ordered his followers to starve their children to death in a forest so they could "meet Jesus".
+   - Published: Fri, 06 Nov 2026 12:54:04 GMT
 
-5. [Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years](https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss)
-   - Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.
-   - Published: Thu, 05 Nov 2026 13:51:03 GMT
+5. [Russian extremist group denies sending hoax bomb threats](https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss)
+   - Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.
+   - Published: Fri, 06 Nov 2026 12:51:38 GMT
 
-_Last updated: 2026-11-05T14:25:29.111400+00:00 UTC_
+_Last updated: 2026-11-06T14:01:13.842906+00:00 UTC_
