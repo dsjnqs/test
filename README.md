@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-12
+# Top 5 Global News — 2026-11-13
 
-1. [Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
-   - Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.
-   - Published: Thu, 12 Nov 2026 14:54:47 GMT
+1. [What we know about the global Microsoft outage](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+   - Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
+   - Published: Fri, 13 Nov 2026 13:34:53 GMT
 
-2. ['We've got to run': Inside ruined Ukraine power plant under constant drone threat](https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss)
-   - Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.
-   - Published: Thu, 12 Nov 2026 13:02:46 GMT
+2. [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
+   - A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
+   - Published: Fri, 13 Nov 2026 11:43:27 GMT
 
-3. [Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss)
-   - In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.
-   - Published: Thu, 12 Nov 2026 12:56:55 GMT
+3. [Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+   - Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.
+   - Published: Fri, 13 Nov 2026 03:57:01 GMT
 
-4. [Millions of Ebola dollars going missing as virus spreads, medical charity warns](https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss)
-   - Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns
-   - Published: Thu, 12 Nov 2026 14:24:48 GMT
+4. [Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss)
+   - The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.
+   - Published: Fri, 13 Nov 2026 02:01:35 GMT
 
-5. [Israeli strike on Gaza hospital kills six Palestinians, health ministry says](https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss)
-   - Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.
-   - Published: Thu, 12 Nov 2026 14:27:30 GMT
+5. [UN watchdog 'increasingly concerned' over Iran nuclear site](https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss)
+   - It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.
+   - Published: Fri, 13 Nov 2026 12:28:28 GMT
 
-_Last updated: 2026-11-12T14:55:59.218107+00:00 UTC_
+_Last updated: 2026-11-13T14:21:18.659678+00:00 UTC_
