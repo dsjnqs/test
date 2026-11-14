@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-13
+# Top 5 Global News — 2026-11-14
 
-1. [What we know about the global Microsoft outage](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
-   - Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
-   - Published: Fri, 13 Nov 2026 13:34:53 GMT
+1. [What we know about the ground stop and what to do if you're affected](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
+   - US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
+   - Published: Sat, 14 Nov 2026 07:42:11 GMT
 
-2. [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
-   - A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
-   - Published: Fri, 13 Nov 2026 11:43:27 GMT
+2. [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
+   - The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
+   - Published: Sat, 14 Nov 2026 11:41:20 GMT
 
-3. [Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
-   - Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.
-   - Published: Fri, 13 Nov 2026 03:57:01 GMT
+3. [Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
+   - Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
+   - Published: Sat, 14 Nov 2026 05:52:31 GMT
 
-4. [Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss)
-   - The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.
-   - Published: Fri, 13 Nov 2026 02:01:35 GMT
+4. ['Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
+   - The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
+   - Published: Fri, 13 Nov 2026 23:40:45 GMT
 
-5. [UN watchdog 'increasingly concerned' over Iran nuclear site](https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss)
-   - It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.
-   - Published: Fri, 13 Nov 2026 12:28:28 GMT
+5. [Setback for SpaceX Starship rocket's double-catch test](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss)
+   - Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.
+   - Published: Sat, 14 Nov 2026 00:01:01 GMT
 
-_Last updated: 2026-11-13T14:21:18.659678+00:00 UTC_
+_Last updated: 2026-11-14T13:16:40.969416+00:00 UTC_
