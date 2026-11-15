@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-14
+# Top 5 Global News — 2026-11-15
 
-1. [What we know about the ground stop and what to do if you're affected](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
-   - US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
-   - Published: Sat, 14 Nov 2026 07:42:11 GMT
+1. [South Korea's top scorer in tax accountancy exam admits cheating](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
+   - Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.
+   - Published: Sun, 15 Nov 2026 13:37:45 GMT
 
-2. [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-   - The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
-   - Published: Sat, 14 Nov 2026 11:41:20 GMT
+2. [Three men sentenced to death in Jordan over fatal church mass shooting](https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss)
+   - The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.
+   - Published: Sun, 15 Nov 2026 11:06:32 GMT
 
-3. [Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
-   - Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
-   - Published: Sat, 14 Nov 2026 05:52:31 GMT
+3. [Israel kills Hamas commander in strike on Gaza camp, officials say](https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss)
+   - Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.
+   - Published: Sun, 15 Nov 2026 08:17:41 GMT
 
-4. ['Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
-   - The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
-   - Published: Fri, 13 Nov 2026 23:40:45 GMT
+4. [New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss)
+   - The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.
+   - Published: Sat, 14 Nov 2026 22:27:06 GMT
 
-5. [Setback for SpaceX Starship rocket's double-catch test](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss)
-   - Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.
-   - Published: Sat, 14 Nov 2026 00:01:01 GMT
+5. [Fifth Canadian soldier dies from injuries caused by large fire at military base](https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss)
+   - Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.
+   - Published: Sun, 15 Nov 2026 09:26:37 GMT
 
-_Last updated: 2026-11-14T13:16:40.969416+00:00 UTC_
+_Last updated: 2026-11-15T13:45:05.192343+00:00 UTC_
