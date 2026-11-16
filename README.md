@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-15
+# Top 5 Global News — 2026-11-16
 
-1. [South Korea's top scorer in tax accountancy exam admits cheating](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
-   - Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.
-   - Published: Sun, 15 Nov 2026 13:37:45 GMT
+1. [Yemeni forces retreat to defend port city from Houthis](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
+   - Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.
+   - Published: Mon, 16 Nov 2026 11:09:38 GMT
 
-2. [Three men sentenced to death in Jordan over fatal church mass shooting](https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss)
-   - The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.
-   - Published: Sun, 15 Nov 2026 11:06:32 GMT
+2. [Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+   - A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.
+   - Published: Mon, 16 Nov 2026 12:20:49 GMT
 
-3. [Israel kills Hamas commander in strike on Gaza camp, officials say](https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss)
-   - Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.
-   - Published: Sun, 15 Nov 2026 08:17:41 GMT
+3. [Five EU countries expected to announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
+   - Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a "return hub" for failed asylum seekers.
+   - Published: Mon, 16 Nov 2026 12:54:44 GMT
 
-4. [New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss)
-   - The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.
-   - Published: Sat, 14 Nov 2026 22:27:06 GMT
+4. [Man sentenced over 'horrific' attempted murder of three children](https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss)
+   - Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.
+   - Published: Mon, 16 Nov 2026 12:27:15 GMT
 
-5. [Fifth Canadian soldier dies from injuries caused by large fire at military base](https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss)
-   - Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.
-   - Published: Sun, 15 Nov 2026 09:26:37 GMT
+5. [Raye, Rosalia and Dolly Parton recognised in Grammy nominations](https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss)
+   - British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.
+   - Published: Mon, 16 Nov 2026 14:48:55 GMT
 
-_Last updated: 2026-11-15T13:45:05.192343+00:00 UTC_
+_Last updated: 2026-11-16T15:22:32.949653+00:00 UTC_
