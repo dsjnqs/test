@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-16
+# Top 5 Global News — 2026-11-17
 
-1. [Yemeni forces retreat to defend port city from Houthis](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
-   - Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.
-   - Published: Mon, 16 Nov 2026 11:09:38 GMT
+1. [Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
+   - Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.
+   - Published: Tue, 17 Nov 2026 13:01:11 GMT
 
-2. [Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
-   - A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.
-   - Published: Mon, 16 Nov 2026 12:20:49 GMT
+2. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
+   - Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.
+   - Published: Tue, 17 Nov 2026 05:59:01 GMT
 
-3. [Five EU countries expected to announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
-   - Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a "return hub" for failed asylum seekers.
-   - Published: Mon, 16 Nov 2026 12:54:44 GMT
+3. [Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says](https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss)
+   - Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.
+   - Published: Tue, 17 Nov 2026 15:36:11 GMT
 
-4. [Man sentenced over 'horrific' attempted murder of three children](https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss)
-   - Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.
-   - Published: Mon, 16 Nov 2026 12:27:15 GMT
+4. [Nvidia partner Megaspeed being investigated by US government over chip exports](https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss)
+   - The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.
+   - Published: Tue, 17 Nov 2026 11:17:32 GMT
 
-5. [Raye, Rosalia and Dolly Parton recognised in Grammy nominations](https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss)
-   - British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.
-   - Published: Mon, 16 Nov 2026 14:48:55 GMT
+5. [Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed](https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss)
+   - Bilkis Bano has spoken of her "pain, shock and disbelief" at the top court order and vowed to fight back.
+   - Published: Tue, 17 Nov 2026 09:27:44 GMT
 
-_Last updated: 2026-11-16T15:22:32.949653+00:00 UTC_
+_Last updated: 2026-11-17T15:46:06.697568+00:00 UTC_
