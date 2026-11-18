@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-17
+# Top 5 Global News — 2026-11-18
 
-1. [Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
-   - Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.
-   - Published: Tue, 17 Nov 2026 13:01:11 GMT
+1. [Trump shakes hands with Putin and Xi ahead of historic talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+   - The three leaders will meet together for the first time on Thursday during a closely-watched summit.
+   - Published: Wed, 18 Nov 2026 12:39:24 GMT
 
-2. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
-   - Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.
-   - Published: Tue, 17 Nov 2026 05:59:01 GMT
+2. [William and Kate meet Indian Prime Minister Modi in New Delhi](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss)
+   - The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize
+   - Published: Wed, 18 Nov 2026 14:30:33 GMT
 
-3. [Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says](https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss)
-   - Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.
-   - Published: Tue, 17 Nov 2026 15:36:11 GMT
+3. [Kuwait says it repelled first Iranian attack in two months after US strikes island](https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss)
+   - Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.
+   - Published: Wed, 18 Nov 2026 13:04:48 GMT
 
-4. [Nvidia partner Megaspeed being investigated by US government over chip exports](https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss)
-   - The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.
-   - Published: Tue, 17 Nov 2026 11:17:32 GMT
+4. [Ghana's new $60m presidential jet sparks public outrage](https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss)
+   - The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.
+   - Published: Wed, 18 Nov 2026 09:27:51 GMT
 
-5. [Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed](https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss)
-   - Bilkis Bano has spoken of her "pain, shock and disbelief" at the top court order and vowed to fight back.
-   - Published: Tue, 17 Nov 2026 09:27:44 GMT
+5. [Democrats win Alaska Senate race two weeks after midterms counting began](https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss)
+   - Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.
+   - Published: Wed, 18 Nov 2026 10:23:57 GMT
 
-_Last updated: 2026-11-17T15:46:06.697568+00:00 UTC_
+_Last updated: 2026-11-18T15:26:29.195191+00:00 UTC_
