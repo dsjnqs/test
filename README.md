@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-24
+# Top 5 Global News — 2026-11-25
 
-1. [Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)
-   - Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.
-   - Published: Tue, 24 Nov 2026 10:53:37 GMT
+1. [Russia's own figures show it has lost nearly 500,000 people in Ukraine war](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
+   - Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
+   - Published: Wed, 25 Nov 2026 12:21:49 GMT
 
-2. [What Jensen Huang's return teaches China's Xi about Trump](https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss)
-   - Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.
-   - Published: Tue, 24 Nov 2026 07:26:27 GMT
+2. [My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated](https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss)
+   - BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.
+   - Published: Wed, 25 Nov 2026 00:54:13 GMT
 
-3. [Nato chief vows defence against space threat after Russian nuclear satellite reports](https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss)
-   - German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.
-   - Published: Tue, 24 Nov 2026 10:58:51 GMT
+3. [Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
+   - The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.
+   - Published: Wed, 25 Nov 2026 06:00:36 GMT
 
-4. [Land mine casualties soar in Syria, two years after war](https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss)
-   - Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.
-   - Published: Tue, 24 Nov 2026 15:17:28 GMT
+4. [Five Russian military jets hit in airfield strike, says Ukraine](https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss)
+   - The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.
+   - Published: Wed, 25 Nov 2026 14:46:41 GMT
 
-5. [Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight](https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss)
-   - Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.
-   - Published: Tue, 24 Nov 2026 16:37:04 GMT
+5. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+   - Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.
+   - Published: Wed, 25 Nov 2026 03:44:07 GMT
 
-_Last updated: 2026-11-24T17:20:03.275761+00:00 UTC_
+_Last updated: 2026-11-25T16:59:38.226776+00:00 UTC_
