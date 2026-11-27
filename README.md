@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-26
+# Top 5 Global News — 2026-11-27
 
-1. [German boat dealer suspected of supplying Channel smuggling gangs, BBC finds](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
-   - Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
-   - Published: Thu, 26 Nov 2026 05:00:24 GMT
+1. [Zelensky criticises 'strange' Trump-Putin friendship in BBC interview](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+   - Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
+   - Published: Fri, 27 Nov 2026 09:07:48 GMT
 
-2. [Watch: BBC confronts German man suspected of supplying migrant gangs with small boats](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
-   - Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.
-   - Published: Thu, 26 Nov 2026 05:00:27 GMT
+2. [John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in](https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss)
+   - Ukraine settles in for another devastating winter as the questions persists: how will it all end?
+   - Published: Fri, 27 Nov 2026 15:18:51 GMT
 
-3. [Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one](https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss)
-   - The possible environmental damage is still being assessed by Spain's sea rescue service.
-   - Published: Thu, 26 Nov 2026 15:17:18 GMT
+3. [Marching bands scramble to cover costs after Thanksgiving parade rearranged](https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss)
+   - Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.
+   - Published: Fri, 27 Nov 2026 15:15:19 GMT
 
-4. [Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules](https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss)
-   - A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.
-   - Published: Thu, 26 Nov 2026 14:44:26 GMT
+4. [Leaders clash in final Spain election debate as housing dominates run-in](https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss)
+   - The struggle many face in buying a home has been the biggest issue of a bitter campaign.
+   - Published: Fri, 27 Nov 2026 06:03:39 GMT
 
-5. [Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss)
-   - More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.
-   - Published: Thu, 26 Nov 2026 15:57:26 GMT
+5. [Brazil pushes back on Macron calling its meat 'doped'](https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss)
+   - France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.
+   - Published: Fri, 27 Nov 2026 15:54:15 GMT
 
-_Last updated: 2026-11-26T16:40:29.247355+00:00 UTC_
+_Last updated: 2026-11-27T16:26:11.412575+00:00 UTC_
