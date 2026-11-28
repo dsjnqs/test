@@ -1,23 +1,23 @@
-# Top 5 Global News — 2026-11-27
+# Top 5 Global News — 2026-11-28
 
-1. [Zelensky criticises 'strange' Trump-Putin friendship in BBC interview](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
-   - Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
-   - Published: Fri, 27 Nov 2026 09:07:48 GMT
+1. [Argentina's bid to stop Falklands oil drilling rejected](https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss)
+   - A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.
+   - Published: Sat, 28 Nov 2026 13:36:36 GMT
 
-2. [John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in](https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss)
-   - Ukraine settles in for another devastating winter as the questions persists: how will it all end?
-   - Published: Fri, 27 Nov 2026 15:18:51 GMT
+2. [Two staff killed in Israeli strike on Gaza medical clinic, MSF says](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)
+   - The Israeli military says it targeted "Hamas terrorists" in the strike which has been condemned by the World Health Organization.
+   - Published: Sat, 28 Nov 2026 10:34:58 GMT
 
-3. [Marching bands scramble to cover costs after Thanksgiving parade rearranged](https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss)
-   - Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.
-   - Published: Fri, 27 Nov 2026 15:15:19 GMT
+3. [Afghanistan explosion kills 10 students and injures more than 100, official says](https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss)
+   - A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.
+   - Published: Sat, 28 Nov 2026 14:10:01 GMT
 
-4. [Leaders clash in final Spain election debate as housing dominates run-in](https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss)
-   - The struggle many face in buying a home has been the biggest issue of a bitter campaign.
-   - Published: Fri, 27 Nov 2026 06:03:39 GMT
+4. [Spanish PM and rivals rally supporters in final pitch for votes](https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss)
+   - Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of "betrayal".
+   - Published: Fri, 27 Nov 2026 21:55:53 GMT
 
-5. [Brazil pushes back on Macron calling its meat 'doped'](https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss)
-   - France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.
-   - Published: Fri, 27 Nov 2026 15:54:15 GMT
+5. [OpenAI counter-sues Apple over alleged theft of trade secrets](https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss)
+   - The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.
+   - Published: Sat, 28 Nov 2026 11:35:34 GMT
 
-_Last updated: 2026-11-27T16:26:11.412575+00:00 UTC_
+_Last updated: 2026-11-28T15:18:42.123706+00:00 UTC_
